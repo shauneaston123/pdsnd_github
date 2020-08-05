@@ -16,7 +16,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
 
-    print('\nHello! Let\'s explore some US bikeshare data! - I have Added This!')
+    print('\nHello! Let\'s explore some US bikeshare data! - Hope you have fun!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
@@ -210,7 +210,7 @@ def user_stats(df):
     except KeyError:
       print("\nMost Common Year:\nNo data available for this month.")
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took %s seconds. Woohoo" % (time.time() - start_time))
     print('-'*40)
 
 def main():
