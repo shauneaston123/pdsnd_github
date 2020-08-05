@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+5th August 2020
 
 ### Project Title
-Replace the Project Title
+Udacity Github project
 
 ### Description
-Describe what your project is about and what it does
+This project is based on version control and using remote repositories on Github.
 
 ### Files used
-Include the files used
+Bikeshare.py
+.gitignore
+README.md
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Initial Repo from -udacity/pdsnd_github: GitHub project (Project 3) repository for PDSND
