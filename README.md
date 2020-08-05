@@ -15,3 +15,6 @@ README.md
 
 ### Credits
 Initial Repo from -udacity/pdsnd_github: GitHub project (Project 3) repository for PDSND
+
+##Adding an extra comment as part of the course
+I've added this comment so that the file has changed - please ignore
