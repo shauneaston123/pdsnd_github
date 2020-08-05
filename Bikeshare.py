@@ -210,7 +210,7 @@ def user_stats(df):
     except KeyError:
       print("\nMost Common Year:\nNo data available for this month.")
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took %s seconds. Woohoo" % (time.time() - start_time))
     print('-'*40)
 
 def main():
